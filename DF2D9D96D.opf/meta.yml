@@ -1,0 +1,22 @@
+id: DF2D9D96D
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2022-01-07T13:47:55+00:00'
+last_modified: '2022-05-30T06:33:01.534739+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/a7eec5e12ddce18d0ed1dbb732a42cf48f94dd09/openpecha/formatters/hfml.py
+source_metadata:
+  base:
+    bbbd:
+      image_group_id: I1PD95961
+      title: རྒྱལ་པོ་ལ་གཏམ་བྱ་བ་རིན་པོ་ཆེའི་ཕྲེང་བ་ལས་བྱུང་བའི་སྨོན་ལམ་ཚིགས་སུ་བཅད་པ་ཉི་ཤུ་པ།
+      total_pages: 1880
+      order: 116
+      base_file: bbbd.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
